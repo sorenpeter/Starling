@@ -246,8 +246,10 @@ footer{text-align:center;padding:2rem;color:var(--text2);font-size:.8rem;border-
 <body>
 <nav>
   <div class="nav-brand">
-    <span class="fedi-symbol">⋰⋱</span>
-    <a class="logo" href="/">Starling</a>
+    <!-- <span class="fedi-symbol">⋰⋱</span>
+    <a class="logo" href="/">Starling</a> -->
+    <span class="fedi-symbol">⁂</span>
+    <a class="logo" href="/">feed of darch</a>
   </div>
   <div class="nav-actions">
     $loginCta

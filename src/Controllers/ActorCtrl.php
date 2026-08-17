@@ -87,7 +87,8 @@ main{max-width:760px;margin:0 auto;padding:1.5rem 1rem 3rem}
 </head>
 <body>
 <div class="public-nav">
-  <a href="/" class="public-nav-brand"><span class="public-nav-brand-symbol">⋰⋱</span><span>Starling</span></a>
+  <!-- <a href="/" class="public-nav-brand"><span class="public-nav-brand-symbol">⋰⋱</span><span>Starling</span></a> -->
+  <a href="/" class="public-nav-brand"><span class="public-nav-brand-symbol">⁂</span><span>feed of darch</span></a>
   <div class="public-nav-actions">$loginCta$registerCta</div>
 </div>
 <main>
@@ -923,7 +924,8 @@ a:hover{text-decoration:underline}
 </head>
 <body>
 <div class="public-nav">
-  <a href="/" class="public-nav-brand"><span class="public-nav-brand-symbol">⋰⋱</span><span>Starling</span></a>
+  <!-- <a href="/" class="public-nav-brand"><span class="public-nav-brand-symbol">⋰⋱</span><span>Starling</span></a> -->
+  <a href="/" class="public-nav-brand"><span class="public-nav-brand-symbol">⁂</span><span>feed of darch</span></a>
   <div class="public-nav-actions">$loginCta$registerCta</div>
 </div>
 <div class="col-main">
